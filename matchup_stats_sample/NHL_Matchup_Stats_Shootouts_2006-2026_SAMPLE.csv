@@ -1,0 +1,18 @@
+Game_ID,NHL_Game_ID,Season,Stage,Date_ET,Sequence,Side,Team_Code,Shooter_ID,Shooter,Result,Shot_Type,Game_Winner,Home_SO_Goals_After,Away_SO_Goals_After
+20061004_BUF_CAR,2006020001,2006/2007,Regular Season,2006-10-04,1,Home,CAR,8458537,Ray Whitney,save,,0,0,0
+20061004_BUF_CAR,2006020001,2006/2007,Regular Season,2006-10-04,2,Away,BUF,8464975,Daniel Brière,goal,backhand,1,0,1
+20061004_BUF_CAR,2006020001,2006/2007,Regular Season,2006-10-04,3,Home,CAR,8470595,Eric Staal,save,snap,0,0,1
+20061004_BUF_CAR,2006020001,2006/2007,Regular Season,2006-10-04,4,Away,BUF,8470598,Thomas Vanek,save,backhand,0,0,1
+20061004_BUF_CAR,2006020001,2006/2007,Regular Season,2006-10-04,5,Home,CAR,8467396,Erik Cole,save,snap,0,0,1
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,1,Home,BUF,8467502,Ales Kotalik,goal,,0,1,0
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,2,Away,PIT,8470299,Erik Christensen,save,,0,1,0
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,3,Home,BUF,8467878,Tim Connolly,save,,0,1,0
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,4,Away,PIT,8471724,Kris Letang,goal,,0,1,1
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,5,Home,BUF,8466202,Maxim Afinogenov,save,,0,1,1
+20080101_PIT_BUF,2007020584,2007/2008,Regular Season,2008-01-01,6,Away,PIT,8471675,Sidney Crosby,goal,,1,1,2
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,1,Home,EDM,8478402,Connor McDavid,save,wrist,0,0,0
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,2,Away,CAR,8476906,Shayne Gostisbehere,save,snap,0,0,0
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,3,Home,EDM,8477934,Leon Draisaitl,save,snap,0,0,0
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,4,Away,CAR,8480830,Andrei Svechnikov,save,wrist,0,0,0
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,5,Home,EDM,8476454,Ryan Nugent-Hopkins,goal,wrist,1,1,0
+20261022_CAR_EDM,2026020163,2026/2027,Regular Season,2026-10-22,6,Away,CAR,8482093,Seth Jarvis,save,wrist,0,1,0
