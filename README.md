@@ -79,6 +79,7 @@ here, game by game: `sample/README.md`.
 |---|---|
 | `sample/NHL_World_Opening_Closing_Odds_2006-2026_SAMPLE.csv` | the 20 games, 194 columns |
 | `sample/README.md` | why each game is here, then the README of the full product |
+| `matchup_stats_sample/` | the same 20 games in NHL Matchup & Stats: game sheets, team, skater and goalie box scores, scratches, goals, penalties, shootouts, players (9 CSV + README) |
 | `NHL_World_Verify_Before_You_Buy.ipynb` | the figures of the listing and of its README recomputed from the full file (all the file can show), results shown |
 
 ---
@@ -159,6 +160,8 @@ out while it was built): [on Kaggle](https://www.kaggle.com/code/oliviersportsda
 
 Once a year, after the Stanley Cup Final, the file adds the completed season. The games after 31 October 2026 come with
 the [NHL World Books monthly updates](https://sportsdataolivier.gumroad.com/l/dhlawd?utm_source=github&utm_medium=readme&utm_campaign=nhl_world&utm_content=monthly): each month's games, same 194 columns, ready to append.
+
+The box score behind each game is sold separately: [NHL Matchup & Stats](https://sportsdataolivier.gumroad.com/l/vavcu?utm_source=github&utm_medium=readme&utm_campaign=nhl_world&utm_content=matchup) (also on [Whop](https://whop.com/oliviersportsdata/nhl-matchup-stats-2006-2026/?utm_source=github&utm_medium=readme&utm_campaign=nhl_world&utm_content=matchup_whop)): game sheets, team, skater and goalie box scores, scratches, goals, penalties and shootouts since 2006-07, on the same Game_ID. Its 20-game sample is in `matchup_stats_sample/`.
 
 → **[Get the full archive](https://sportsdataolivier.gumroad.com/l/jytwci?utm_source=github&utm_medium=readme&utm_campaign=nhl_world&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/nhl-opening-closing-odds-pinnacle-7-world-books-2006-2026/?utm_source=github&utm_medium=readme&utm_campaign=nhl_world&utm_content=whop_footer)
 
